@@ -1,109 +1,109 @@
 [
   {
-    "from": "June 22",
-    "to": "July 22",
+    "from": "Junio 22",
+    "to": "Julio 22",
     "sign": "Cancer",
-    "facts": ["Intuitive", "Emotional", "Intelligent", "Passionate"],
-    "element": "Water",
-    "luckyGem": "Ruby"
+    "facts": ["Intuitivo", "Emocional", "Inteligente", "Apasionado"],
+    "element": "Agua",
+    "luckyGem": "Rubí"
   },
 
   {
-    "from": "December 23",
-    "to": "January 20",
-    "sign": "Capricorn",
-    "facts": ["Proud", "Bold", "Ambitious"],
-    "element": "Fire",
-    "luckyGem": "Carnelian"
+    "from": "Diciembre 23",
+    "to": "Enero 20",
+    "sign": "Capricornio",
+    "facts": ["Orgulloso", "Intrépido", "Ambicioso"],
+    "element": "Fuego",
+    "luckyGem": "Cornalina"
   },
 
   {
-    "from": "November 22",
-    "to": "December 22",
-    "sign": "Sagittarius",
-    "facts": ["Adventurous", "Creative", "Strong Willed"],
-    "element": "fire",
-    "luckyGem": "Topaz"
+    "from": "Noviembre 22",
+    "to": "Diciembre 22",
+    "sign": "Sagitario",
+    "facts": ["Aventurero", "Creativo", "Voluntad fuerte"],
+    "element": "Fuego",
+    "luckyGem": "Topacio"
   },
 
   {
-    "from": "March 21",
-    "to": "April 20",
+    "from": "Marzo 21",
+    "to": "Abril 20",
     "sign": "Aries",
-    "facts": ["Ambitious", "Independent", "Impatient"],
-    "element": "Fire",
-    "luckyGem": "Diamond"
+    "facts": ["Ambicioso", "Independiente", "Impaciente"],
+    "element": "Fuego",
+    "luckyGem": "Diamante"
   },
 
   {
-    "from": "April 21",
-    "to": "May 20",
-    "sign": "Taurus",
-    "facts": ["Dependable", "Musical", "Practical"],
-    "element": "Earth",
-    "luckyGem": "Emerald"
+    "from": "Abril 21",
+    "to": "Mayo 20",
+    "sign": "Tauro",
+    "facts": ["Dependiente", "Musical", "Práctico"],
+    "element": "Tierra",
+    "luckyGem": "Esmeralda"
   },
 
   {
-    "from": "May 21",
-    "to": "June 21",
-    "sign": "Gemini",
-    "facts": ["Curious", "Affectionate", "Kind"],
-    "element": "Air",
-    "luckyGem": "Tiger's Gem & Emerald"
+    "from": "Mayo 21",
+    "to": "Junio 21",
+    "sign": "Geminis",
+    "facts": ["Curioso", "Afectivo", "Amable"],
+    "element": "Aire",
+    "luckyGem": "Gema del tigre & Esmeralda"
   },
 
   {
-    "from": "July 23",
-    "to": "August 23",
+    "from": "Julio 23",
+    "to": "Agosto 23",
     "sign": "Leo",
-    "facts": ["Proud", "Bold", "Ambitious"],
-    "element": "Fire",
-    "luckyGem": "Carnelian"
+    "facts": ["Orgulloso", "Intrépido", "Ambicioso"],
+    "element": "Fuego",
+    "luckyGem": "Cornalina"
   },
 
   {
-    "from": "January 21",
-    "to": "February 18",
-    "sign": "Aquarius",
-    "facts": ["Independent", "Open-Minded", "Inventive"],
-    "element": "Air",
-    "luckyGem": "Amethyst"
+    "from": "Enero 21",
+    "to": "Febrero 18",
+    "sign": "Acuario",
+    "facts": ["Independiente", "Mente abierta", "Inventivo"],
+    "element": "Aire",
+    "luckyGem": "Amatista"
   },
 
   {
-    "from": "February 19",
-    "to": "March 20",
-    "sign": "Pisces",
-    "facts": ["Creative", "Sensitive", "Artistic"],
-    "element": "Water",
-    "luckyGem": "Moonstone"
+    "from": "Febrero 19",
+    "to": "Marzo 20",
+    "sign": "Piscis",
+    "facts": ["Creativo", "Sensitivo", "Artistico"],
+    "element": "Agua",
+    "luckyGem": "Piedra lunar"
   },
 
   {
-    "from": "August 24",
-    "to": "September 22",
+    "from": "Agosto 24",
+    "to": "Septiembre 22",
     "sign": "Virgo",
-    "facts": ["Graceful", "Organized", "Kind"],
-    "element": "Earth",
-    "luckyGem": ""
+    "facts": ["Agraciado", "Organizado", "Amable"],
+    "element": "Tierra",
+    "luckyGem": "Peridoto"
   },
 
   {
-    "from": "September 23",
-    "to": "October 23",
+    "from": "Septeimbre 23",
+    "to": "Octubre 23",
     "sign": "Libra",
-    "facts": ["Diplomatic", "Artistic", "Intelligent"],
-    "element": "Air",
-    "luckyGem": "Sapphire"
+    "facts": ["Diplomático", "Artistico", "Inteligente"],
+    "element": "Aire",
+    "luckyGem": "Záfiro"
   },
 
   {
-    "from": "October 24",
-    "to": "November 22",
-    "sign": "Scorpio",
-    "facts": ["Seductive", "Passionate", "Independent"],
-    "element": "Water",
-    "luckyGem": "Topaz and Opal"
+    "from": "Octubre 24",
+    "to": "Noviembre 22",
+    "sign": "Escorpio",
+    "facts": ["Seductivo", "Apasionado", "Independiente"],
+    "element": "Agua",
+    "luckyGem": "Topacio y Opacio"
   }
 ]

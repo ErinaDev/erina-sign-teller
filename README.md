@@ -5,6 +5,8 @@
 
 **Erina Sign Teller** es una libreria basada en Sign Teller (de micah-akpan) que provee información sobre simbolos zodiacales completamente **en español**.
 
+La terminología de la API de la librería está en inglés para mayor comodidad y referencia.
+
 ## Utilización
 Para usar `erina-sign-teller` en tu programa como dependencia:
 - yarn add `erina-sign-teller` o npm install `erina-sign-teller`
@@ -25,7 +27,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
 
 ### API
   - `{ day: number, month: number }` El día y el mes de la fecha indicada.
-  - `{ type }` es "sideral" predeterminadamente. Puedes ponerlo en "tropical" si lo deseas poner en calendario tropical.
+  - `{ type }` ** es "tropical" predeterminadamente.** Puedes ponerlo en "sidereal" si lo deseas poner en calendario tropical.
 
   ```js
   // Return

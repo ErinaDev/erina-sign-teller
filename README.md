@@ -39,8 +39,8 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
     elements: String,
     luckyGem: String
   }
-    ```
-    
+  ```
+
 ## Licencia
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 

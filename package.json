@@ -1,6 +1,6 @@
 {
-  "name": "erina.sign-teller",
-  "version": "3.4.0",
+  "name": "erina-sign-teller",
+  "version": "3.4.1",
   "main": "lib/index.js",
   "repository": {
     "type": "git",

@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/micah-akpan/sign-teller.svg?branch=develop)](https://travis-ci.org/micah-akpan/sign-teller) [![Coverage Status](https://coveralls.io/repos/github/micah-akpan/sign-teller/badge.svg?branch=develop)](https://coveralls.io/github/micah-akpan/sign-teller?branch=develop)
-
-
 # Erina Sign Teller
 
 **Erina Sign Teller** es una libreria basada en Sign Teller (de micah-akpan) que provee información sobre simbolos zodiacales completamente **en español**.
@@ -18,7 +15,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
 
 ### Uso
 
-```
+```js
   const signo = require('erina-sign-teller'); // import signTeller from 'erina-sign-teller' (ES6)
   const cumpleaños = { day: 4, month: 7 }
   const detallesSigno = signo(cumpleaños);
@@ -29,7 +26,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
   - `{ day: number, month: number }` El día y el mes de la fecha indicada.
   - `{ type }` ** es "tropical" predeterminadamente.** Puedes ponerlo en "sidereal" si lo deseas poner en calendario tropical.
 
-  ```js
+```js
   // Return
   {
     from: String,
@@ -39,7 +36,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
     elements: String,
     luckyGem: String
   }
-  ```
+```
 
 ## Licencia
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details

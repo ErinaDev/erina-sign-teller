@@ -24,7 +24,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
 
 ### API
   - `{ day: number, month: number }` El día y el mes de la fecha indicada.
-  - `{ type }` ** es "tropical" predeterminadamente.** Puedes ponerlo en "sidereal" si lo deseas poner en calendario tropical.
+  - `{ type }` **es "tropical" predeterminadamente.** Puedes ponerlo en "sidereal" si lo deseas poner en calendario tropical.
 
 ```js
   // Return

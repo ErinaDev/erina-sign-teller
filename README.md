@@ -33,7 +33,7 @@ Para usar `erina-sign-teller` en tu programa como dependencia:
     to: String,
     sign: String,
     facts: Array<string>,
-    elements: String,
+    element: String,
     luckyGem: String
   }
 ```
